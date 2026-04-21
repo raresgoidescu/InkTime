@@ -156,10 +156,15 @@ Tag-Connect 6-pin pogo footprint (J2). Signals: SWDIO, SWDCLK, SWO, RESET, VCC, 
 
 ![PCB Top Layer](Images/top_layer.png)
 
-### Bottom Layer
+### Polygon Pours
 
-![PCB Bottom Layer](Images/bottom_layer.png)
+| Top | Bottom |
+|---|---|
+| ![top_poly](Images/top_poly.png) | ![bot_poly](Images/bot_poly.png) |
 
+| GND | Power |
+|---|---|
+| ![gnd_poly](Images/gnd_poly.png) | ![power_poly](Images/power_poly.png) |
 
 ## Exploded View
 
